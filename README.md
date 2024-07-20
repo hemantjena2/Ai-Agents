@@ -20,7 +20,7 @@ This Educational AI System is an intelligent tutoring platform that uses the Gem
 2. Install the required dependencies
 3. Set up your Gemini API key:
 - Obtain an API key from the [Google AI Studio](https://makersuite.google.com/app/apikey)
-- Replace `"YOUR-API-KEY"` in `main.py` with your actual API key
+- Replace `"YOUR_API_KEY"` in `main.py` with your actual API key
 
 ## Usage
 Run the main script to start the Educational AI System.
