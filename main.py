@@ -33,6 +33,6 @@ class EducationalAISystem:
 
 # The rest of your main.py file remains the same
 if __name__ == "__main__":
-    api_key = "Your-api-key"  # Replace with your actual Gemini API key
+    api_key = "Your_api_key"  # Replace with your actual Gemini API key
     system = EducationalAISystem(api_key)
     system.process_request("Explain object-oriented programming", "student123")
